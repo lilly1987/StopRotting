@@ -1,0 +1,9 @@
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\StopRotting.csproj.AssemblyReference.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\StopRotting.GeneratedMSBuildEditorConfig.editorconfig
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\StopRotting.AssemblyInfoInputs.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\StopRotting.AssemblyInfo.cs
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\StopRotting.csproj.CoreCompileInputs.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Assemblies\StopRotting.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\StopRotting.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\refint\StopRotting.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\StopRotting\Source\obj\Release\ref\StopRotting.dll

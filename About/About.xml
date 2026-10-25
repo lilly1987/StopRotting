@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Stop Rotting</name>
+  <packageId>Lilly.StopRotting</packageId>
+  <author>Lilly</author>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>
+AI한테 맡겨봤으나 결국엔 내가 마무리한 모드
+아래 설명도 살짝 개판임.
+실제 작동 방식은 부패comp를 아예 비활성 하는 방식.
+그래서 설명란에 부패 설명 자체가 사라지는걸 볼수 있음.
+comp 자체가 꺼지기 때문에 복구가 안되니 주의.
+부패 관련 모드가 있으면 영향 받음.
+  
+# Stop Rotting
+
+Prevents rottable things from rotting by disabling their rot ticks.
+
+**Features**
+- Completely stops rot progression.
+- Resets existing rot progress to zero, restoring items to the Fresh stage when applicable.
+- Prevents rot-related damage and destruction caused by the normal rot ticking process.
+- Automatically applies to rottable things handled by `CompRottable`.
+
+**Compatibility**
+- RimWorld 1.7
+- Requires Harmony
+
+**Note:** This mod targets the vanilla `CompRottable` ticking process. Other mods that modify rot behavior independently may not be affected.
+
+# 부패 방지 (Stop Rotting)
+
+부패 가능한 물건의 부패 처리를 비활성화하여 부패를 완전히 방지합니다.
+
+**주요 기능**
+- 부패 진행을 완전히 정지합니다.
+- 이미 부패가 진행된 대상의 부패 진행도를 0으로 초기화하여, 해당하는 경우 신선한 상태로 복구합니다.
+- 일반적인 부패 처리 과정에서 발생하는 부패 피해와 부패로 인한 파괴를 방지합니다.
+- `CompRottable`이 적용된 부패 가능 대상에 자동으로 적용됩니다.
+
+**호환성**
+- 림월드 1.7
+- Harmony 필요
+
+**참고:** 이 모드는 바닐라 `CompRottable`의 부패 처리에 적용됩니다. 다른 모드가 별도의 방식으로 부패를 처리하는 경우에는 영향을 주지 않을 수 있습니다.
+
+</description>
+</ModMetaData>
