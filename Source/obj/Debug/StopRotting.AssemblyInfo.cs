@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StopRotting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1225f310c88574df68a5377998c86a9d7eb7697")]
 [assembly: System.Reflection.AssemblyProductAttribute("StopRotting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StopRotting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
